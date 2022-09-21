@@ -106,3 +106,46 @@ body {
 .img-hero {
   width: 70%;
 }
+.future {
+  display: grid;
+  background: rgb(247, 247, 247);
+  justify-items: center;
+  margin-top: 4rem;
+  padding: 5rem;
+}
+.future-children {
+  width: 45%;
+  text-align: center;
+  margin-top: 20px;
+}
+.f-title {
+  margin-bottom: 16px;
+  font-size: 30px;
+  color: #1c2b33;
+}
+.f-p {
+  color: #465a69;
+  margin: 0 0 24px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.learn-m {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.v-f {
+  width: 100%;
+  margin-right: 4rem;
+}
+.v-c {
+  margin-top: 4rem;
+}
+.more-about {
+  display: flex;
+  gap: 2rem;
+  margin-top: 20px;
+  margin-right: 0;
+}
